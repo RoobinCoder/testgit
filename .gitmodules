@@ -1,0 +1,3 @@
+[submodule "dir2"]
+	path = dir2
+	url = ./dir2
